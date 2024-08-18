@@ -1,1 +1,2 @@
 # Blog-.NET
+# Este proyecto es un blog web que permite a usuarios con diferentes roles interactuar y gestionar publicaciones. Incluye funcionalidades para la creacion, edicion y gestion de post, asi como opciones para comentarios, calificaciones y moderacion.
